@@ -1,1 +1,1 @@
-# Practice-
+print("Simple Calculator
